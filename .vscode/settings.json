@@ -8,5 +8,6 @@
         "**/.vs": true,
         "**/bin": true,
         "**/obj": true
-    }
+    },
+    "dotnet.preferCSharpExtension": true
 }
